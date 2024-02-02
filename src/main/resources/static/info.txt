@@ -1,0 +1,6 @@
+acá va todo lo que es accesible por el usuario
+
+imagenes
+videos
+front
+etc.
